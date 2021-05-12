@@ -2,7 +2,7 @@
 
 ![Johnkespitia's github stats](https://github-readme-stats.vercel.app/api?username=johnkespitia&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkespitia)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkespitia&langs_count=10)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johnkespitia&repo=rule-engine-example)](https://github.com/johnkespitia/rule-engine-example)
 
