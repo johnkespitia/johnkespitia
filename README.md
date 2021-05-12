@@ -2,9 +2,9 @@
 
 ![Johnkespitia's github stats](https://github-readme-stats.vercel.app/api?username=johnkespitia&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkespitia&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkespitia&langs_count=10&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johnkespitia&repo=rule-engine-example)](https://github.com/johnkespitia/rule-engine-example)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johnkespitia&repo=rule-engine-example&theme=dark)](https://github.com/johnkespitia/rule-engine-example)
 
 <!--
 **johnkespitia/johnkespitia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
