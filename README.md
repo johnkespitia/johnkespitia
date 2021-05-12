@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![Johnkespitia's github stats](https://github-readme-stats.vercel.app/api?username=johnkespitia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkespitia)](https://github.com/johnkespitia/github-readme-stats)
+[![Johnkespitia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johnkespitia)](https://github.com/johnkespitia/github-readme-stats)
 
 <!--
 **johnkespitia/johnkespitia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
