@@ -17,11 +17,11 @@ Combino visión estratégica, mentalidad de startup y habilidades técnicas para
 
 ## 🛠️ Stack Tecnológico
 
-- **Backend:** PHP (Laravel), Node.js
-- **Frontend:** React.js, Redux, Bootstrap
-- **Bases de Datos:** MySQL 8, Eloquent ORM
+- **Backend:** PHP (Laravel), Node.js, Golang
+- **Frontend:** React.js, Redux, Bootstrap, Tailwind, Next.js
+- **Bases de Datos:** MySQL 8, Eloquent ORM, PostgreSQL
 - **DevOps:** Docker, CI/CD, AWS (EC2, RDS)
-- **Otros:** PDF Generation (DOMPDF), API REST, JWT, ACL (Spatie), Toolyx CRM Integration
+- **Otros:** PDF Generation (DOMPDF), API REST, JWT, ACL (Spatie), Toolyx CRM Integration, Scrum
 
 ---
 
