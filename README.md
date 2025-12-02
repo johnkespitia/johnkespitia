@@ -1,81 +1,107 @@
-# 👨‍💻 John Carlos Espitia Rivera
+# 👨‍💻 John Carlos Espitia Rivera  
+**Senior Principal Full-Stack & UI Engineer | Software Architect | AI-Driven Systems | 15+ Years Experience**  
+Bogotá, Colombia · Remote Worldwide  
 
-**CTO | Full Stack Developer | EdTech Innovator**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/johnkespitia/)  
-*Building scalable, secure, and disruptive technology for real-world learning experiences.*
-
----
-
-## 🚀 Sobre mí
-
-Soy un desarrollador full stack con más de 10 años de experiencia liderando proyectos tecnológicos en el sector EdTech. Actualmente soy CTO en **PLG Education**, donde diseñé y lidero la arquitectura de nuestro ecosistema LMS, integrando tecnologías modernas para transformar la enseñanza de idiomas en experiencias personalizadas, gamificadas y de alto impacto.
-
-Combino visión estratégica, mentalidad de startup y habilidades técnicas para construir plataformas robustas, seguras y escalables. Especialista en integración de sistemas, automatización de procesos, y desarrollo API-first con foco en la experiencia de usuario.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/johnkespitia)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel)](https://johnespitia.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:jcespitia1@gmail.com)
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🚀 About Me
 
-- **Backend:** PHP (Laravel), Node.js, Golang
-- **Frontend:** React.js, Redux, Bootstrap, Tailwind, Next.js
-- **Bases de Datos:** MySQL 8, Eloquent ORM, PostgreSQL
-- **DevOps:** Docker, CI/CD, AWS (EC2, RDS)
-- **Otros:** PDF Generation (DOMPDF), API REST, JWT, ACL (Spatie), Toolyx CRM Integration, Scrum
+I’m a **Senior Principal Full-Stack & UI Engineer** with **15+ years** designing and building  
+large-scale platforms, secure enterprise UIs, distributed backend systems, and AI-driven workflows.
 
----
+I specialize in:
 
-## 🌐 Proyectos Destacados
+- **UI Architecture** (React, Vue, TypeScript, complex state models, design systems)  
+- **Backend Engineering** (Golang, PHP, Node.js, microservices, event-driven pipelines)  
+- **Cloud Engineering** (AWS Serverless, S3, Lambda, API Gateway, EventBridge)  
+- **AI Integrations** (AWS Bedrock, multi-step extraction pipelines, LLM orchestration)  
+- **Enterprise Software** (security systems, compliance dashboards, LMS, logistics engines)
 
-### PLG LMS Ecosystem
-- Backend modular con Laravel 8, autenticación JWT y ACL dinámico.
-- Frontend en React.js con arquitectura Redux y diseño responsivo.
-- Integración con CRM externo (Toolyx) y sistema de notificaciones calendarizadas.
-- Generación automática de facturación en PDF y eventos sincronizados a Gmail/Outlook.
-- Enfoque API-first para escalabilidad y conexión con terceros.
+I have led teams, designed architectures from scratch, modernized platforms,  
+and delivered software for global companies across **security, fintech, e-commerce, logistics, and EdTech**.
 
 ---
 
-## 🎯 Principios de Desarrollo
+## 🧠 Technical Focus
 
-- **Seguridad by Design:** Validación de accesos, roles dinámicos y monitoreo constante.
-- **Experiencia de Usuario:** Componentes accesibles, intuitivos y con personalización inteligente.
-- **Escalabilidad:** Diseño modular, orientado a microservicios e integración continua.
-- **Innovación:** Adopción de IA, gamificación y herramientas analíticas para educación personalizada.
+### **Frontend / UI Engineering**
+- React, TypeScript, Vue.js, AngularJS  
+- Advanced rendering pipelines, virtualization, memo layers  
+- Domain-driven UI, design systems, component governance  
+- UI security: role-based visibility, masking, audit logging, threat modeling  
+- UI performance: tree shaking, hydration strategies, async boundaries  
+
+### **Backend / Distributed Systems**
+- Golang, Node.js, PHP  
+- Microservices, API design, serverless pipelines  
+- Event-driven architectures (RabbitMQ, EventBridge)  
+- Workflow orchestration for LLMs and document processing  
+
+### **Cloud & DevOps**
+- AWS: S3, Lambda, API Gateway, IAM, Bedrock, Dynamo, RDS  
+- Docker, CI/CD, GitHub Actions, GitLab CI  
+- Infrastructure-as-Code (CDK – Python)  
+
+### **Data & Messaging**
+- PostgreSQL, MySQL, MongoDB  
+- RabbitMQ, streaming workflows  
+- Knowledge Graph generation & entity processing  
 
 ---
 
-## 📫 Conecta conmigo
+## 🌐 Enterprise-Level Projects
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/johnkespitia/)
-- 🌐 [johnespitia.com](https://www.johnespitia.com/)
-- ✉️ it@plgeducation.com
-- ✉️ jcespitia1@gmail.com
-- 🚀 [www.plgeducation.com](https://www.plgeducation.com)
+### 🔐 **AI Security Analysis Platform** — Senior UI/Backend Engineer  
+**BairesDev (2025–Present)**  
+- Designed UI architecture for security intelligence & compliance auditing  
+- Built Golang microservices orchestrating **AWS Bedrock** LLM pipelines  
+- Implemented UI threat-modeling, secure data-scoping, audit traces  
+- Frontend: Vue + TypeScript · Backend: Golang · Cloud: AWS  
 
 ---
 
-> _“Real talk for real people. La tecnología debe transformar vidas, no complicarlas.”_
+### 🎓 **Multi-Access LMS & Diagnostics Platform** — CTO / Principal Engineer  
+**PLG Education (2023–Present)**  
+- Led architecture for the new LMS ecosystem (Admin · Teacher · Student · Diagnostic)  
+- Built a modular UI system with React/Vue + TS  
+- Designed backend workflows in PHP, Node.js, Golang  
+- Integrated adaptive learning & AI-based diagnostics  
 
+---
 
+### 🚚 **Carrier Selection Engine** — Lead Full Stack Engineer  
+**Dafiti (2020)**  
+- Built decision engine for logistics carriers (cost, distance, SLA, reliability)  
+- Reduced logistics complaints by **15%** and costs by **5%**  
+- Stack: Golang, RabbitMQ, PostgreSQL, MongoDB, React  
+
+---
+
+## 🛠️ Featured Repositories
+
+[![Rule Engine](https://github-readme-stats.vercel.app/api/pin/?username=johnkespitia&repo=rule-engine-example&theme=dark)](https://github.com/johnkespitia/rule-engine-example)
+
+---
+
+## 📊 GitHub Stats
 
 ![Johnkespitia's github stats](https://github-readme-stats.vercel.app/api?username=johnkespitia&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkespitia&langs_count=10&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johnkespitia&repo=rule-engine-example&theme=dark)](https://github.com/johnkespitia/rule-engine-example)
+---
 
-<!--
-**johnkespitia/johnkespitia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Connect With Me  
 
-Here are some ideas to get you started:
+📎 **LinkedIn:** https://linkedin.com/in/johnkespitia  
+🌐 **Portfolio:** https://johnespitia.com  
+✉️ **Email:** jcespitia1@gmail.com  
+🚀 **PLG Education:** https://plgeducation.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> “Technology should be simple, scalable, and meaningful — built to impact real people.”
+
