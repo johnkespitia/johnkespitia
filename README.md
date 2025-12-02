@@ -83,14 +83,15 @@ and delivered software for global companies across **security, fintech, e-commer
 
 ## 🛠️ Featured Repositories
 
-[![Rule Engine](https://github-readme-stats.vercel.app/api/pin/?username=johnkespitia&repo=rule-engine-example&theme=dark)](https://github.com/johnkespitia/rule-engine-example)
+[![Rule Engine](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/pin/?username=johnkespitia&repo=rule-engine-example&theme=dark)](https://github.com/johnkespitia/rule-engine-example)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Johnkespitia's github stats](https://github-readme-stats.vercel.app/api?username=johnkespitia&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkespitia&langs_count=10&theme=dark)
+![GitHub Stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=johnkespitia&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=johnkespitia&layout=compact&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=johnkespitia&color=blue)
 
 ---
 
